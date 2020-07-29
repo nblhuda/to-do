@@ -1,3 +1,4 @@
+//This is the first logic that gets executed when the app starts running.
 import { Component } from '@angular/core';
 
 import { Platform } from '@ionic/angular';
